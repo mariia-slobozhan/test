@@ -13,4 +13,4 @@ const e=document.querySelector(".theme-switch__toggle"),t=document.querySelector
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/menu-markup"),require("./js/toggle-themes");
 },{"./js/menu-markup":"Kgfu","./js/toggle-themes":"aY8N"}]},{},["Focm"], null)
-//# sourceMappingURL=/test/src.22f2b605.js.map
+//# sourceMappingURL=/test/src.3c30e338.js.map
