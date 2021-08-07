@@ -9,7 +9,6 @@ const Theme = {
     DARK: 'dark-theme',
   };
 
-
 // if(curentTheme) {
 //     body.classList.add(JSON.parse(curentTheme))
 //     if(JSON.parse(curentTheme) === Theme.DARK){
@@ -18,7 +17,6 @@ const Theme = {
 // } else {
 //   localStorage.setItem("theme", JSON.stringify(Theme.LIGHT))
 // }
-
 
 switch (theme) {
     case null:
